@@ -9,7 +9,7 @@
   <img width="1000" height="563" alt="386745" src="https://github.com/user-attachments/assets/6f38e025-d9f3-4014-8d96-7f4a5817299d" />
 </div>
 
-- 📚 I'm currently studying **Software Engineer at the University of Buenos Aires**
+- 📚 I'm currently studying **Computer Engineering at the University of Buenos Aires**
 - 🌱 I'm currently learning C language, and my **last project was an Arcade Game**
 - 📈 I'm working on different projects in Data Analysis, using Python with libraries such as Selenium, Pandas, Plotly and managing databases in MariaDB (via MySQL Workbench).
 - 📨 Feel free to reach me out **rodrigorieraa@gmail.com**
